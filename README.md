@@ -25,3 +25,7 @@ FEB-Bench/
 └── val/
     ├── images/
     └── edges/
+```
+
+The training split contains 435 samples, and the validation split contains 100 samples.  
+Image files and edge annotation files share the same filenames.
