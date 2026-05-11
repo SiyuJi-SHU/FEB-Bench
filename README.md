@@ -34,4 +34,4 @@ Image files and edge annotation files share the same filenames.
 
 The full dataset is available from the following link:
 
-- [FEB-Bench v1.0](https://drive.google.com/file/d/18Dpfv06JRX7kgolH7aoOewI1B9F4zBE_/view?usp=sharing)
+- [FEB-Bench](https://drive.google.com/file/d/18Dpfv06JRX7kgolH7aoOewI1B9F4zBE_/view?usp=sharing)
